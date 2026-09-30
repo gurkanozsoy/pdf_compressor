@@ -109,4 +109,4 @@ This tool circumvents that by applying the following flags:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
