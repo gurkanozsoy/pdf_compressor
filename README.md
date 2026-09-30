@@ -4,6 +4,8 @@ A lightweight, zero-dependency Python desktop application that provides a graphi
 
 Specially tuned for **scanned books, academic papers, and lecture notes**, this tool forces the re-encoding of embedded JPEG/raster images to reduce multi-hundred-megabyte PDFs down to convenient e-reader sizes without noticeable quality loss.
 
+![PDF Compressor UI](pdf_compressor.jpg)
+
 ## Key Features
 
 * **Zero-Download Run Mode:** Launch directly from your terminal or command prompt without saving `.py` files locally.
